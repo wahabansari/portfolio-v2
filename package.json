@@ -1,0 +1,29 @@
+{
+  "name": "wahab-portfolio",
+  "version": "1.0.0",
+  "description": "Muhammad Wahab Ansari's Portfolio Website - Frontend Developer & React Expert",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahabansari/portfolio-v2.git"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend",
+    "developer",
+    "react",
+    "nextjs"
+  ],
+  "author": "Muhammad Wahab Ansari <wahabansari.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahabansari/portfolio-v2/issues"
+  },
+  "homepage": "https://github.com/wahabansari/portfolio-v2#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
